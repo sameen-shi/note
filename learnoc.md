@@ -126,7 +126,10 @@ int add = addBlock(2, 5); // < add = 12
 ```
 
 - `super`用来调用父类方法
+
 - `self`用来指代对象本身
+
+- `-`代表实例方法，`+`代表类方法，不用类对象就可以调用的方法，类似于C++的静态方法
 
 ### NSArray VS NSMutableArray
 
